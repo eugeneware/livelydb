@@ -1,6 +1,6 @@
 {
   "name": "livelydb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Abstract base class for Lively live-streaming database implementations.",
   "main": "index.js",
   "scripts": {
